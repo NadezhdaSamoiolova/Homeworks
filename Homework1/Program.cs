@@ -129,6 +129,6 @@
 // int num = Convert.ToInt32(Console.ReadLine());
 
 // EvenOrOdd(num);
-// true = EvenOrOdd;
+// bool num1 = EvenOrOdd;
 
 
